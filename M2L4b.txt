@@ -20,11 +20,11 @@ said, hydrogen is the only atom he wants to work
 with.
 Other atoms are too complicated.
 And he studied-- actually hydrogen
-was, he did a little bit on alkali atom of course,
+was, he did a little bit on alkali atoms of course,
 but hydrogen was really the central part
 of his scientific work.
 He studied Rydberg states in hydrogen,
-or Bose-Einstein Condensation in hydrogen.
+or did Bose-Einstein Condensation in hydrogen.
 And this column in Physics Today, I
 mean he talks both the yin and yang,
 the simplicity of hydrogen, it's the simplest atom.
@@ -33,11 +33,11 @@ Because the step from the 1s to the 2p transition
 is Lyman-alpha, is vacuum UV, at 121 nanometer.
 So it's simple, but challenging.
 And hydrogen is the most pristine atom.
-but for those of you who Bose-Einstein Condensation,
+but for those of you who do Bose-Einstein Condensation,
 it's the hardest atom to Bose condense.
 Because the physical properties of hydrogen--
 it's simple in its structure-- but the properties of hydrogen,
-in particular, the coalition core section,
+in particular, the collision cross section,
 which is important for evaporative cooling,
 is very, very unfavorable.
 So that's why he talks about the yin and the yang of hydrogen.
@@ -46,13 +46,13 @@ of this Reference Frame.
 Well, why don't we read it together.
 It tributes to hydrogen, it tributes to famous people.
 Viki Weisskopf was on the faculty at MIT.
-I make him, but he was already retired at this point,
+I met him, but he was already retired at this point,
 but Dan Kleppner interacted with him.
 And you see the first quote, "To understand hydrogen
 is to understand all of physics!"
 Well, it simply, it's says that, if you understand
-some of this paradigmatic systems in physics,
-you understand all the physics.
+some of these paradigmatic systems in physics,
+you understand all of physics.
 I would actually say, well, you really
 have to understand the harmonic oscillator,
 the two-level system, and hydrogen, and maybe
@@ -74,10 +74,10 @@ who actually confront it more or less daily."
 So, that's what we're starting out now,
 to talk about hydrogen. I know that a discussion
 of the hydrogen atom, the solution of the Schrodinger
-equation of the hydrogen atom isn't in all quantum mechanics
+equation of the hydrogen atom is in all quantum mechanics
 textbooks, I'm not doing it here.
 I rather want to sort of give you
 a few insightful comments about the structure of hydrogen,
 some scaling of length scales and energy levels,
 because this is something we need later in the course.
-So in other words, I want to highlight things which are often not emphasized in the textbooks.
+So in other words, I want to highlight a few things which are often not emphasized in the textbook.
