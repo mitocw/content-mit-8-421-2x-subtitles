@@ -21,7 +21,7 @@ So this is now the title of our next chapter, Fine-Structure
 and Lamb Shift.
 The fine-structure energies are alpha squared times smaller
 than the Rydberg.
-So are on the order of alpha to the 4 mc squared.
+So they are on the order of alpha to the 4 mc squared.
 And well, if I write that as alpha square Rydberg,
 which is the same.
 But this explains to you why alpha is called
@@ -57,7 +57,7 @@ But just to tell you, the Lamb shift
 is on the order of a gigahertz.
 And you know that standard precision in all of your labs
 is now megahertz or better, so the Lamb shift,
-so it's alpha to the fifth, is a big effect
+although it's alpha to the fifth, is a big effect
 on this scale of how we understand and probe
 the structure of atoms today.
 
@@ -65,7 +65,7 @@ So let's talk about the fine-structure.
 
 You will actually find a complete discussion
 of the fine-structure in several textbooks
-on quantum mechanics-- Griffiths, Cohe-Tannoudji,
+on quantum mechanics-- Griffiths, Cohen-Tannoudji,
 Gasiorowicz.
 What I want to do here is to have a careful discussion
 of the physical origin and provide
@@ -98,10 +98,10 @@ goes by the name Darwin term.
 And we can get this physical insight
 and obtain those three terms separately
 when we use what is called the Pauli
-approximate to the Dirac equation.
+approximation to the Dirac equation.
 If you do this so-called Pauli approximation
 to the Dirac equation, you simply
-have to expend the Dirac equation in powers of v over c.
+have to expand the Dirac equation in powers of v over c.
 And then you get the Schrodinger equation plus correction terms.
 And what you obtain then is a Hamiltonian,
 which is the rest energy-- which is
