@@ -16,7 +16,7 @@ So the next five or 10 minutes, how
 we describe the configuration of an atom,
 it's, well, I don't particularly like to teach it,
 because it's more nomenclature about old-fashioned symbols.
-On the other hand, if you're working with the atoms,
+On the other hand, if you're working with atoms,
 you have to learn the language of how to describe atoms.
 And I also know that in, an appreciable fraction
 of oral exams, there will be one person in the committee,
@@ -31,7 +31,7 @@ and so we have at least two quantum numbers, which I was
 also two good quantum numbers.
 We have some approximate quantum numbers,
 where we have additional terms which break certain symmetries,
-but an isolated atom lifts an isotropic space.
+but an isolated atom lives in isotropic space.
 The total angular momentum of this atom is conserved.
 It's absolutely conserved.
 It's an absolutely good quantum number,
@@ -47,24 +47,24 @@ So J-- we're talking about electronic structure--
 so J can have, when we have a isolated atom,
 can have contributions from several electrons.
 
-It can of contributions, and these electrons
-can contribute through spin, s, and orbital angular momentum L.
+It can have contributions, and these electrons
+can contribute through spin, S, and orbital angular momentum L.
 In many situations, especially with alkali atoms,
 the inner core is completely filled shell.
-There is no s, no L from the inner electrons
+There is no S, no L from the inner electrons
 which contribute, and all the contribution
 of the angular momentum comes from the outer electron.
 Especially for the lighter atoms,
-to non-relativistic atom, the different electrons
+the non-relativistic atoms, the different electrons
 undergo LS coupling.
 In other words, if you have multiple electrons,
 their orbital angular momentum couple up
 to the total orbital angular momentum L,
 and all the spins couple up to the total spin, s.
 So therefore, before we introduce spin orbit coupling,
-L is a good quantum number, s is a good quantum number,
+L is a good quantum number, S is a good quantum number,
 and then they couple to a good quantum number J.
-Of course, once L and s couple to J, orbital and spin,
+Of course, once L and S couple to J, orbital and spin,
 angular momentum precess around the total angular momentum.
 But anyway, I just want to say when
 I talk about J, what are possible ingredients?
@@ -82,27 +82,27 @@ designation for L equals zero, one, and two.
 
 So, in other words, if you have an atom where the total angular
 momentum is composed of orbital angular momentum and spin,
-you can always write the [INAUDIBLE]
-and this [INAUDIBLE] is to turn designation which characterizes
+you can always write the symbol
+and this symbol is to turn designation which characterizes
 the state, the ground state, or an excited state of your atom.
 If you have the hydrogenic atom, you
 precede the term by the principal quantum number n.
 So let me give you an example.
 If you have the sodium atom, the outer electron
 has n equals three, it has zero orbital angular momentum,
-it has spin one-half, and 2 s plus 1 is 2,
+it has spin one-half, and 2 S plus 1 is 2,
 and the total angular momentum is one-half.
 If you go to the first excited state,
 you are still in n equals three, but you
-have promoted the electron from an s state to a p state.
+have promoted the electron from an S state to a P state.
 So therefore, the orbital angular momentum
-is now one, designated by p.
+is now one, designated by P.
 The spin is still spin one-half, but now,
 orbital angular momentum of one, and spin one-half,
 can form a total angular momentum, which
 can either be one-half or 3/2.
-So, if you ask what is a state, you prepare your atom
-and you would give it a symbol three double it p one-half,
+So, if you ask what is the state you prepare your atom in,
+and you would give it a symbol three doublet p one-half,
 and I've explained to you what it means.
 There is one addition, and sometimes you
 want to not just mention what is the principal quantum
@@ -122,7 +122,7 @@ so it's 2 p 6.
 And then we have one electron, the outer electron in 3 s.
 However let me point out, that this way
 to specify the configuration, strongly
-depends an a hydrogenic model.
+depends on a hydrogenic model.
 It assumes that the electrons are non-interacting, and is
 therefore an approximation.
 In contrast, the term designation,
