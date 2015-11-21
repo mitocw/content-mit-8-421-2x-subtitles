@@ -14,8 +14,8 @@ to this formula.
 Does the fact that we have in ionic core,
 does it make a constant offset to the binding energy?
 Or does it make the correction, which goes as 1 over n squared.
-This [INAUDIBLE] scale-- the overall spectrum--
-it would actually lead to a modified rescaled root back
+This would just scale-- the overall spectrum--
+it would actually lead to a modified rescaled Rydberg
 constant.
 Or is the correction higher order in n?
 Or finally, is it a correction which
@@ -23,4 +23,4 @@ changes the effective principal quantum
 number n?
 
 Maybe you know the answer or maybe you
-want to try to guess the answer.
+want to try to guess the answer, so these are the four choices.
