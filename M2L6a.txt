@@ -34,7 +34,7 @@ Should the speed of light be part
 of our system of atomic units?
 
 Could we not set it equal to one?
-Let's go there, because, if you set it to one,
+Let's not go there, because, if you set it to one,
 you have make a choice, you have constrained your system,
 and you almost obscuring the fact whether it should appear
 or not.
@@ -53,7 +53,7 @@ It will later come in the fine-structure constant,
 but this is a different story.
 So, we have three units, e, m, and h bar
 and you can just play the game of combinatorics
-and see can do find length which consist of those three units.
+and see can do find a length which consist of those three units.
 And well, it's h squared, m over e squared.
 This is how you get the unit of length.
 And this length is called the Bohr radius
@@ -82,7 +82,7 @@ equation, there is no c in the solution of the Schrodinger
 equation.
 And if you set it at one, sure, it wouldn't-- I mean,
 if you have a relativistic equation that c equals 1,
-you obscure the fake.
+you obscure the fact.
 But here, it's definitely not there.
 But now we can also see, well, there
 are other important energies.
@@ -139,10 +139,10 @@ z is on the order of unity, you would
 find that the electron moves at the speed of light,
 and then you'll realize, gosh, I've
 solved the wrong equation, because
-in the relativistic Schrodinger equation, when the solution is
+in the non-relativistic Schrodinger equation, when the solution is
 that something moves at the speed of light,
 I better start with a different equation.
-But here we find we are consistent in electron
+But here we find we are consistent, an electron
 in the hydrogen atom, for low nuclear charge
 of a few hydrogen, helium, and so on, is non-relativistic.
 So, let's just finish that.
@@ -185,7 +185,7 @@ by a complete theory.
 So alpha, the fine-structure constant, is smaller than 1.
 It's 1 over 137.
 And the fact that alpha is smaller than 1,
-is often phrased in these words, since alpha
+is often phrased in these words, that since alpha
 is much smaller than 1, this implies
 the electromagnetic interactions are weak.
 
@@ -230,7 +230,7 @@ that our picture, how we think about those interactions
 arranging two charges, and writing down what the Coulomb
 energy is, that if energy uncertainties become
 on the order of the rest energy, than the concept
-of similar particles breaks down.
+of single particles breaks down.
 Of course, that's not the end of physics.
 You need now field theory for particles, where particles are
 just excitations in a field.
@@ -279,7 +279,7 @@ about the nature of interaction.
 And what I just presented to you leads to the statement
 that the Coulomb interaction, the electromagnetic interaction
 is weak, because the fine-structure constant
-is much smaller than unit.
+is much smaller than unity.
 
 Of course, if you use a nucleus of uranium, naked uranium,
 and people have iron traps, where
@@ -288,4 +288,4 @@ you're really studying very interesting physics.
 You're studying the physics of an electron for which
 the effective fine-structure constant is
 on the order of unity.
-And that's why people are very interested in it.
+And that's why people are very interested in it, and that's one area of current research.
