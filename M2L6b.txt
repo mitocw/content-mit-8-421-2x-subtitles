@@ -23,9 +23,9 @@ Well if we have an electron, and this electron orbits around
 in the alkali atom.
 There is an ionic core which has a charge of z plus,
 but then in this sort of compact core,
-they are also c minus 1 electron.
+they are also Z minus 1 electron.
 So the electron-- the outer electron pretty much
-feels the electric field overseeing the charge,
+feels the electric field of a single charge,
 but there is a presence of the core.
 So what I want to discuss with you
 is now what is the leading correction
@@ -35,7 +35,7 @@ function due to the fact that we have an ionic core and not
 a proton.
 For hydrogen, we would have the Rydberg formula
 that for principal quantum number, n,
-the energy is z square times the Rydberg constant divided
+the energy is Z square times the Rydberg constant divided
 by n square.
 
 So this would simply be what an electron would do in the Coulomb field of a single charge.
