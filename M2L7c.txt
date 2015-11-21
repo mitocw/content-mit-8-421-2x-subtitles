@@ -15,7 +15,7 @@ comes, of course, because operators
 are symmetric with regards to the two electrons.
 What we have is, we have the total spin
 is the sum of the spins of electron one and electron two.
-All spin operators the spin operator s and its components,
+All spin operators the spin operator S and its components,
 are symmetric against particle exchange.
 
 In other words, if you couple to the spin
@@ -37,17 +37,17 @@ with the particle exchange operator.
 So in any arbitrary observable commute.
 
 So the commutator of the particle exchange operator
-benefits.
+vanishes.
 OK, but now what is special to the approximation in which we
 have treated helium, as long as wavefunctions
 and operators separate into spin-dependent and
 space-dependent parts-- of wavefunction
-had a spatial part, and then be multiply it
+had a spatial part, and then we multiply it
 with a spin wavefunction.
 So the wavefunction factorize, separated into a spin
 part and a spatial part.
-Also, the operator, if you operator for total spin,
-if you operator for dipole moment,
+Also, the operator, if you have operator for total spin,
+if you have operator for dipole moment,
 the operators are either addressing
 the spatial degree of freedom, or the spin degree of freedom.
 So as long as this is the case, we
@@ -74,7 +74,7 @@ How can we break them?
 And in this case, we can break this symmetries, which
 doesn't allowed transitions between singlet and triplet,
 we have to break them to get an intercombination lines.
-So in order to get and simulate to triplet transition,
+So in order to get a singlet to triplet transition,
 is only possible when we violate the assumptions
 we've just discussed.
 
@@ -85,20 +85,20 @@ wavefunctions are mixed, for instance by spin orbit
 coupling, then the assumptions we've discussed
 are no longer valid.
 So what we need is, for instance a mixing of spin and spatial
-wavefunctions by spin and coupling.
+wavefunctions by spin orbit coupling.
 
 Well, as we will learn later today,
 spin orbit coupling is actually a relativistic effect,
 it naturally arises in the dirac equation,
-and it scales with the nuclear charge s z to the four.
-So therefore in Helium it is very, very busy weak.
+and it scales with the nuclear charge as Z to the four.
+So therefore in Helium it is very, very weak.
 Therefore, the triplet ground state is extremely long-lived.
 The lifetime in Helium is 8,000 seconds.
 It's one of the most longest-lived metastable states
 you can imagine in which you find in atomic physics.
 Now, since spin orbit coupling becomes rapidly stronger
 with nuclear charge, you would expect the metastable lifetime
-to be much shorter time for the analogous
+to be much shorter for the analogous
 state in the other rare gases.
 And indeed, the other rare gases are on the order of 40 seconds.
 You have other atoms where you have singlet and triplet lines.
@@ -111,16 +111,16 @@ And they are actually very relevant in current research
 because these are candidates for atomic clocks.
 In those atoms, magnesium, calcium, strontium,
 physics is more complicated.
-The line rate is typically kilohertz.
+The line width is typically kilohertz.
 But that's probably just what you want.
-If the line rate is kilohertz, the lifetime is millisecond,
+If the line width is kilohertz, the lifetime is millisecond,
 you still have a matrix element that you can drive
 the transition and observe it.
 For an atomic clock, you don't want a transition
 which is thousands of seconds, or half the age
 of the universe, because it's too weak to be observed, too
 weak to be driven.
-So in the combination lines of kilohertz
+So intercombination lines of kilohertz
 lined with a few hundred Hertz or such,
 are almost ideal for optical atomic clocks.
 Any questions?
