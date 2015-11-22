@@ -23,10 +23,10 @@ squared, and then you take the full relativistic expression
 for the total energy minus 1.
 And now you do a Taylor expansion of the square root.
 You find the non-relativistic kinetic energy
-in the first correction term with all
-of the correct pre-factors.
-It's this one.
+and the first correction term with all
+the correct pre-factors
+is this one.
 
-So this is a relativistic energy collection
+So this is a relativistic energy correction
 in the Pauli equation.
 That's all we have to say.
