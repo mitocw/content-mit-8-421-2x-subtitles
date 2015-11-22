@@ -37,19 +37,19 @@ And this Australian group used a very clever trick
 to eliminate this uncertainty and this is as follows.
 We have this extremely long lived
 8,000 seconds lifetime here and this is the transition.
-But you can now excite the atom to the triplet PCO state, which
+But you can now excite the atom to the triplet P_O state, which
 is also-- it's a triplet state but-- well, I
-assume because it has a p state it has been orbit coupling.
+assume because it has a p state it has spin orbit coupling.
 The lifetime is, well, for an atom is very long.
 Typically atoms decay nanoseconds but this lifetime
 is milliseconds.
 So what they did is they just excited all the atoms
-with a strongly saturating laser to the triplet PCO transition
+with a strongly saturating laser to the triplet P_0 transition
 and then within a few milliseconds all the atoms
 emitted.
 And so all they had to do is measure accurately
 the ratio of the VUV photons emitted
-on by the triplet count state and by the triplet PCO state.
+on by the triplet ground state and by the triplet P_O state.
 And then the number of atoms cancelled out,
 all they had to do is measure the ratio of two VUV
 intensities.
@@ -65,7 +65,7 @@ So, for a long time people believed
 it was a two photon transition, that one photon transition was
 forbidden but a two photon transition was allowed.
 We know now that the decay path is
-one photon and one transition-- magnetic dipole transition.
+one photon M1 transition-- magnetic dipole transition.
 If you don't know what M1 is, we discuss it later in the course.
 But you may find it interesting that until rather recently
 it was not clear what that the decay path is.
@@ -87,9 +87,9 @@ to the electromagnetic field.
 
 Any questions?
 Yes, Nancy.
-If the measurement of the lifetime of that state,
+In the measurement of the lifetime of that state,
 what is the limiting factor?
-What [INAUDIBLE] this measurement
+What limits this measurement
 to be that more precise?
 Do you know?
 Here is the reference.
@@ -102,7 +102,7 @@ Of course saturation is never complete,
 maybe there is a limitation to that.
 Finally, you have to measure the ratio
 of photons emitted by that state and emitted by that state.
-Rather they are the vacuum u.v. But you
+Rather they are the vacuum UV, but you
 may have a systematic effect if your photo detector has
 a slightly different detection efficiency for 58
 nanometer and 62 nanometer.
