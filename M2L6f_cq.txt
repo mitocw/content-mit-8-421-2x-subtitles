@@ -42,7 +42,7 @@ and between the electrons.
 That's it.
 We do not put any other terms into the Hamiltonian,
 and now we have obtained those wave functions,
-we have obtained those energy splitting,
+we have obtained those energy splittings,
 and now we want to ask, are there transitions possible?
 So one possibility is that we can drive the transition
 with optical fields.
@@ -50,7 +50,7 @@ Let's say our dipole operator, which many of you
 have encountered in life.
 We have already discussed rotating magnetic fields
 the first part of the course.
-Is it possible to use force magnetic fields
+Is it possible to use both magnetic fields
 and optical fields?
 Or the last answer is none of the above.
 It's not possible with any of those fields
