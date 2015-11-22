@@ -14,12 +14,12 @@ because it now really addresses the spin.
 So yes, the term comes from the Dirac equation
 and appears separately as an identifiable term.
 If you do the Pauli approximation
-of dirac equation, so I could just stop there and say here,
+to the Dirac equation, so I could just stop there and say here,
 that's what it is.
 But I think it's insightful if I re-derive this term for you
 by using a physical picture, what
 do we have to add to the Schrodinger equation to get it.
-So what we have to add what we have to add to the Schrodinger
+So do what we have to add -- what we have to add to the Schrodinger
 equation is, of course, you have to put in
 that the electron has a spin.
 the Dirac equation is formulated in spin
@@ -43,8 +43,8 @@ OK.
 So if you put in, by hand, that the electron has a spin,
 the spin is associated with a magnetic moment,
 now we have a coupling because an electron which
-moves, in the Coulomb field of the nucleus,
-sees in its moving frame, a magnetic field.
+moves in the Coulomb field of the nucleus,
+sees in its moving frame a magnetic field.
 And this magnetic field couples to the spin.
 So the moving electron sees a motional magnetic field.
 Well, you know when you have an electric field,
@@ -69,7 +69,7 @@ about it-- is you can get the magnetic field, which couples
 to the spin, by simply transforming the Coulomb
 field into the frame of the moving electron.
 But there is a more naive picture,
-which is correct to, if you are in the frame of the electron,
+which is correct too, if you are in the frame of the electron,
 then the proton is orbiting around you.
 And the orbiting proton is a ring current,
 which creates a magnetic field.
@@ -142,9 +142,9 @@ Well, now, due to relativistic kinematics,
 we have an additional rotation, but using the same argument
 we used at the beginning of the course
 this additional rotation corresponds
-to an addition magnetic field.
+to an additional magnetic field.
 So therefore, this precession is identical to the effect of
-and additional magnetic field.
+an additional magnetic field.
 So there is an additional magnetic field,
 with the letter T, the Thomas magnetic field,
 those magnetic fields are related to the precession
@@ -169,7 +169,7 @@ by a factor of one-half.
 Yes?
 Small one.
 What letter is the gyromagnetic ratio denoted by?
-So for the handwriting, which we have usually used lower case
+Sorry for the handwriting, which we have usually used lower case
 gamma, and the E means the electron,
 so gamma electron is the gyromagnetic ratio
 of the electron.
@@ -196,4 +196,4 @@ to have this kind of integer, or L time L plus 1.
 Yeah, in this integer spectrum, or do we want to measure,
 or do we want to use operators, which have units of h bar.
 That's where the h bar comes from.
-Other questions?
+Other questions? Ok, so this is spin orbit coupling.
