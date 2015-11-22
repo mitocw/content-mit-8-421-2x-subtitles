@@ -20,13 +20,13 @@ The Darwin term is only for s electrons.
 L-S does not contribute because an s electron has L equal zero.
 
 So if you go to p and d states, to states with finite angular
-momentum, then we get contribution of l s.
+momentum, then we get contribution of L S.
 We always get a relativistic kinetic energy contribution,
 but for finite angular momentum we don't have the Darwin term.
 And finally we can also classify those different contribution
-by asking what is the sign.
-Thus, so those corrections lower, or increase,
-the total energy.
+by asking what is the sign?
+Thus, do those corrections lower, or increase,
+the total energy?
 Well the Darwin term reduces the binding energy
 because it sort of takes a cusp away
 from the Coulomb interaction.
