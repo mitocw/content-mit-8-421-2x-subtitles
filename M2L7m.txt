@@ -23,8 +23,8 @@ due to the electromagnetic radiation emitted by a lamp.
 But that's not what we're talking about.
 We're going to talk about the Lamb shift which
 is named after Willis Lamb who received the Nobel
-Prize for the discovery that the 2 s one-half,
-and the 2 p one-half level in hydrogen are not degenerate.
+Prize for the discovery that the 2S one-half,
+and the 2P one-half level in hydrogen are not degenerate.
 And he wouldn't have gotten the Nobel Prize
 if it would have been simply about one little feature
 in the spectrum of hydrogen. But the discovery
@@ -42,13 +42,13 @@ I want to give you a simplified physical picture, which
 actually nicely relates the Lamb shift to the Darwin term which
 we have just discussed.
 But sort of just in full disclosure, what you have to do
-is, if you fully quantized the electromagnetic field,
+is, if you fully quantize the electromagnetic field,
 you have a vector potential, which describes the vacuum mode
 and you have a vector potential, which
 is the operator of the fully quantized field.
 And if you now carry out-- if you now carry out
 second-order perturbation theory,
-in this operator a of the quantized electromagnetic
+in this operator A of the quantized electromagnetic
 field.
 In other words, you allow the atom,
 or the electron in the atom, to couple to all the empty modes
@@ -58,7 +58,7 @@ and this is discussed nicely in Atom-Photon Interactions by Claude Cohen-Tannoud
 
 So this is the nature.
 The nature of the Lamb shift is a coupling to the vacuum modes.
-But I want to capture that now in the same classical picture.
+But I want to capture that now in a semiclassical picture.
 So the picture I am presenting here,
 is due to Welton and Viki Weisskopf.
 And yes, it has to address the nature of the Lamb shift,
@@ -77,17 +77,17 @@ then each mode has a fluctuating electric field.
 Now what we have to do is, we have
 to multiply the contribution, the energy of each mode,
 by the density of modes.
-We have to some over all modes.
+We have to sum over all modes.
 But then, in the end, what we get
 is an expression for the fluctuating electric field.
 And remember, in the Darwin term,
-be assumed that the electron is trembling by itself,
-and is smeared out over the Compton wavelengths.
+we assumed that the electron is trembling by itself,
+and is smeared out over the Compton wavelength.
 But now in addition to its own trembling motion,
 the electron is now shaken by the electric field
 of the vacuum, and this leads to an additional smear out,
 and this is the Lamb shift.
-So, that's what you want to put together.
+So, that's what we want to put together.
 So we want to calculate an additional contribution
 to a trembling motion of the electron,
 but this time it is driven by the electric field, which
@@ -96,7 +96,7 @@ So that's the Lamb shift.
 OK, so it's one-half h bar omega, per mode.
 We have to use the density of modes,
 and the density is per unit volume, and frequency interval.
-So we have a density, u is the frequency,
+So we have a density, nu is the frequency,
 and you probably remember that the density of mode
 scales with frequency squared.
 
@@ -129,7 +129,7 @@ is the electric field.
 I just want to make sure we keep track of the powers of nu.
 
 Because we take the second derivative, acceleration,
-we get two powers of nu, so we have an extra u squared term.
+we get two powers of nu, so we have an extra nu squared term.
 
 Of course, the phase is random, so we're not
 interested in the amplitude, we are
@@ -144,13 +144,13 @@ Just in the equation at the top, we
 had an expression for the spectral density
 of the electric field e squared, which goes nu cubed.
 So that means now that the spectral density
-of the motion of the electron s u squared, goes as one over nu.
+of the motion of the electron s nu squared, goes as one over nu.
 And yeah, e squared, h bar, pi square, m square, e cubed.
 
 And now, yes, I've wanted to do it
 in the same lecture as the Darwin term,
-because we know that there was a change in the Coulomb potential
-to the Darwin term, which came because the electron was
+because we know that there was a change to the Coulomb potential
+in the Darwin term, which came because the electron was
 smeared out over an area s squared-- remember this was
 the Compton radius squared-- and it involved the Laplacian
 of the potential-- Taylor expansion,
@@ -162,7 +162,7 @@ So therefore, we have now executed
 what I discussed before.
 We calculated the sort of displacement
 of the free electron driven by the vacuum
-fluctuations of electric field, and these smear
+fluctuations of the electric field, and these smear
 out of the electron leads to a change
 of the the average Coulomb potential, the average Coulomb
 potential over the fast motion of the electron.
@@ -185,15 +185,15 @@ And the only thing which is no nontrivial, we have to do
 is, we have to integrate over all modes nu.
 
 So therefore, what we had so far was
-the shift cost by one frequency of the electromagnetic
+the shift caused by one frequency of the electromagnetic
 spectrum, but now we have to integrate over all frequencies.
-So what we have to do what is, our spectrum
+So what we have to do is, our spectrum
 s square goes as one over nu.
 And if you integrate one over nu over all frequencies,
 you get a logarithm, you get logarithmic divergences.
 So therefore, our result is-- and I'm
 using now atomic units alpha cubed,
-c to the four, the n-cubed factor,
+Z to the four, the n-cubed factor,
 everything is in units of atomic units,
 the atomic unit of energy is one-half hartree
 or two Rydberg.
@@ -212,16 +212,16 @@ a free electron on timescales, which are much faster than one
 orbital period.
 So therefore, we have to use, as a lower cutoff, the frequency
 of the orbiting electron.
-Which is c squared, n cubed in atomic units.
+Which is Z squared, n cubed in atomic units.
 So with that-- a little bit handwavingly, but it appears
 in a logarithm anyway-- we have gotten
 for the ratio of the upper and the lower cutoff
 an expression which is n cubed over z squared times alpha
 squared.
-And if you apply it to the 2 s state,
+And if you apply it to the 2S state,
 where it most important because there
-is the degeneracy between p one-half
-and p three-half to be lifted, we get the result
+is the degeneracy between P one-half
+and P three-half to be lifted, we get a result
 that the energy splitting is now, and with the assumptions
 we have made, the logarithm is 8 over a squared, alpha squared,
 and from that, we would have derived
@@ -231,4 +231,4 @@ I'm missing five minutes to discuss the result in terms
 of vacuum polarization, but that's
 something we do on Monday.
 Any quick question?
-OK, great.
+OK, great. See you on Monday.
