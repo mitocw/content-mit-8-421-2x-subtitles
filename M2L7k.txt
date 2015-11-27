@@ -18,13 +18,13 @@ We just discussed the fine structure,
 which shifts down the energy of all those levels in the ground.
 I mentioned that the fine structure
 is alpha to the 4 mc squared.
-And for the ground state, the prefector is minus 1/8.
-And this is the one-- the term designation is 1/2.
-Here we get the 2s 1/2 level.
+And for the ground state, the prefactor is minus 1/8.
+And this is the one-- the term designation is 1S 1/2.
+Here we get the 2S 1/2 level.
 And the shift is minus 5 over 128 in the same unit,
 alpha to 4 mc squared.
-We have the exact degeneracy between the s 1/2
-and the 2 p 1/2 state where s that p 3/2 state is only
+We have the exact degeneracy between the S 1/2
+and the 2  P1/2 state whereas the P 3/2 state is only
 shifted by minus 1 over 128.
 To put in some numbers in electron volt,
 the fine structure in the ground state
@@ -32,15 +32,15 @@ is on the order of 10 to the minus 4 electron volt.
 The splitting here, which is the fine structure
 splitting of the p 1/2 and the p 3/2 state is 4 times 10
 to the minus 5 electron volt. So that means at the level of 10
-to the minus 4 electron colt we understand atomic structure.
+to the minus 4 electron volt we understand atomic structure.
 
 Well, but we want to go further.
 And the next thing we want to discuss
 is that what is the exact degeneracy between s 1/2
-and p 1/2 is actually lifted when we input use photons, when
+and p 1/2 is actually lifted when we introduce photons, when
 we allow the electrons to couple to the electromagnetic.
 That's QED, quantum electrodynamics.
-And that introduced a lens shift, which, in the n
+And that introduced the Lamb shift, which, in the n
 equals 2 state, is 10 to the minus 6
 electron volt, which is approximately 1 gigahertz.
 And that's what we want to derive next.
@@ -51,10 +51,10 @@ not just-- so far we have said there is a point charge.
 But the proton is a real particle which has finite size,
 but also it has finite angular momentum.
 And then we have to bring in fine structure.
-And we will learn that the 1s 1/2 ground state splits
+And we will learn that the 1S 1/2 ground state splits
 into two hyperfine components.
 And the hyperfine structure will be at a similar energy
-scale as the lamb shift.
+scale as the Lamb shift.
 And actually this fine structure splitting
 is the famous 14-- it's about 1 gigahertz.
 It's the famous 1420 megahertz line,
