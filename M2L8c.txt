@@ -20,7 +20,7 @@ So just to summarize, so far we have
 treated in pretty much complete detail what
 happens for an atom which consists of a point charge
 and electrons, but now we want to bring
-in what creates a Coulomb field, the nucleus, has structure.
+in that what creates a Coulomb field, the nucleus, has structure.
 
 And there are actually four different ways
 how the nucleus has structure and contributes
@@ -39,17 +39,17 @@ and the nucleus has a finite volume.
 Both the mass and volume effect lead to energy shifts,
 but tiny energy shifts are hard to measure unless you have
 two different shifts, and therefore those effects
-go as isotrope shifts because when you have an atom which
-comes into different isotropes, you
+go as isotope shifts because when you have an atom which
+comes into different isotopes, you
 find that due to those two effects
 the energy levels are not the same.
-So this goes by the name of isotrope shifts.
+So this goes by the name of isotope shifts.
 
 By far the most important phenomenon
 is the first one, the fact that, if a nucleus has angular
 momentum, we have hyperfine structure,
-and for the high torsion atom, that
-means that the ground state, this single at s 1/2 state,
+and for the hydrogen atom, that
+means that the ground state, the singlet S 1/2 state,
 actually splits into two states with total angular momentum
 quantum number F. So the relevance
 of hyperfine splitting is-- it's actually of huge relevance--
@@ -57,7 +57,7 @@ one is you don't have a single ground state of many atoms.
 You have several ground states.
 So the lowest electronic state has several ground states, so
 several hyperfine states.
-Due to angular momentum selection
+Due to angular momentum selection rule
 you can actually talk to them individually.
 You can prepare them individually,
 and many of you who do magnetic trapping know
@@ -106,11 +106,11 @@ that people figured out that, until now, even in 2014,
 we do not fully understand how big the proton is,
 but we'll talk about that later.
 So for at the level of this introduction,
-we can use it for the termination of nuclear
+we can use it for determination of nuclear
 properties, and actually you cannot only determine nuclear
 properties of stable nuclei.
 You can also determine properties of unstable nuclei.
-At various accelerators, they will
+At various accelerators, they have a
 facility when by high energy collisions
 they create unstable nuclei.
 Maybe helium six.
