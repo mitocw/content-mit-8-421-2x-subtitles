@@ -14,7 +14,7 @@ where higher order moments became important.
 But I want to teach you about it because the discussion
 whether those higher moments exist
 or not is really an interesting discussion about what
-is allowed by symmetry and whatnot.
+is allowed by symmetry and what not.
 So I'm bringing in higher order moments,
 not so much because you needed to understand the level
 structure of your favorite atom, but because it teaches us
@@ -46,20 +46,20 @@ There's always an extra factor of minus 1.
 So therefore, if we go magnetic, magnetic multipoles, with L
 have a parity of minus L plus 1.
 So this really restricts what multipoles are possible.
-Instead of giving you general discussion,
+Instead of giving you a general discussion,
 let me just look at the very important case
 whether a nucleus can have an electric dipole moment.
 And you will immediately see what it needs to,
 and then I give you the general result.
-So let's assume a nucleus have angular momentum i.
-And there is a magnetic moment u associated with it.
+So let's assume a nucleus have angular momentum I.
+And there is a magnetic moment mu associated with that.
 So the general result is that odd electric and even magnetic
 multipole moments would violate-- not just one,
-but two symmetries would violate parity and time reversal
+but two symmetries -- would violate parity and time reversal
 symmetry.
 So the argument goes as follows.
 Let us assume this is the magnetic moment
-mu or the angular momentum i.
+mu or the angular momentum I.
 It's a vector.
 And now we are asking is it possible to have
 a vector of the dipole moment.
@@ -80,10 +80,10 @@ And similar, parity is not changing mu,
 but it is changing d.
 So in both cases, would parity or time reversal symmetry,
 if you had a mu d, a scalar product of mu
-and d, which would be non-0, then post p or t
-would change the sine.
+and d, which would be non-0, then both P or T
+would change the sign.
 But that would mean that two kinds of particles would exist,
-one where the sine is positive, one where the sine is negative.
+one where the sign is positive, one where the sign is negative.
 But we have assumed that we have one nucleus and only
 one nucleus of this kind.
 So we cannot have one nucleus which has the property
