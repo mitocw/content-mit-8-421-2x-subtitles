@@ -13,7 +13,7 @@ So this is hydrogen, and this h is now the Hamiltonian.
 So the hyperfine coupling Hamiltonian, which is I
 dot J, by using the expression for the total angular
 momentum, I plus J. And then we square it.
-When you evaluate the square, you get on the right insight
+When you evaluate the square, you get on the right hand side
 an expression for I dot J. So I dot
 J is nothing else than 1/2 F square, minus I square,
 minus J square.
@@ -23,7 +23,7 @@ has spin 1/2, that's it.
 You have only two values or the resultant total angular
 momentum.
 1/2 and 1/2 can add up to 1 or 0.
-And now the hyperfine splitting is into F equals 1,
+And now the hyperfine splitting is into and F equals 1,
 and F equals 0 state.
 And one thing to remember is if you inspect the above formula
 wit the quantum numbers, you find immediately
@@ -32,9 +32,9 @@ without hyperfine splitting-- so what comes out
 of the Dirac equation, the splitting is 1/4 and 3/4
 of the hyperfine constant.
 Since F equals 1 has a multiplicity of three,
-two MF quantum numbers plus minus 1 and 0, the rule
+two MF quantum numbers plus minus 1 and 0, the rule is
 that the center of mass, of this level does not change,
 due to hyperfine splitting.
 So the center of mass of hyperfine states
 is not changing.
-So we introduce a level splitting,
+So we introduce a level splitting, but no overall shift.
