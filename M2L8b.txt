@@ -57,7 +57,7 @@ But the question is, what do we regard
 as the elementary charge e in our Schrodinger equation.
 And what we regard as the charge, what
 is measured in a Millikan droplet
-the experiment is already the shielded charge.
+experiment is already the shielded charge.
 So therefore, the fact that vacuum polarization exists
 means we always measure the shielded charge.
 But because vacuum polarization happens at a finite distance,
