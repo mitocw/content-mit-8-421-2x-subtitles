@@ -51,9 +51,9 @@ value, well a least the triangle rule
 can only be justified like this.
 Or in other words, you can only get a non-vanishing moment
 if L is smaller than 2 I. And this
-is what we discussed in the kicker question
+is what we discussed in the clicker question
 for the two cases of L equals 1 and L equals 2.
-So ultimately, it's the selection rule,
+So ultimately, it's a selection rule,
 which is related to the triangle rule for the additional angular
 momenta.
 
