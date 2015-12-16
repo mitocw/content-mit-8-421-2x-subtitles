@@ -11,7 +11,7 @@
 If you have a deformation of a nucleus
 or if you have any kind of anisotropic shape of an object,
 what is the minimum angular momentum in order
-go observe it?
+to observe it?
 And I know a lot of you got confused about it.
 So I want to discuss the same thing again but by now focusing
 on two different frames, the lab frame and the body-fixed frame.
@@ -40,7 +40,7 @@ gradient, you can then ask if E0 is
 in the middle between up and down, plus 1 or minus 1,
 or whether it's displaced or not.
 And depending if this is larger or smaller than 0,
-you would say that it's a quadrupole moment, which
+you would say there is a quadrupole moment, which
 is larger or smaller than 0.
 In other words, what I'm telling you
 is, if you have only one level, I equals 0,
@@ -67,7 +67,7 @@ it you can't measure it in quantum mechanics,
 it means it doesn't exist.
 So which statement or which conclusion is correct?
 
-So this is the body-fixed frame augment and this is more
+So this is the body-fixed frame argument and this is more
 based on the lab frame.
 I would say the lab frame argument is always correct
 because you can't measure it.
@@ -94,7 +94,7 @@ I cannot measure it at low angular momentum.
 So then you would say in the body-fixed system
 there is a deformation, but it only
 manifests itself in the lab frame
-if I had angular momentum.
+if I add angular momentum.
 However, you may have an object, let's say a molecule,
 which is so weakly bound that one
 quantum of angular momentum due to centrifugal forces
@@ -106,7 +106,7 @@ So that's an object which you cannot rotate--
 you cannot transfer any angular momentum without destroying it,
 without ripping it apart.
 And now to say that this molecule has a dipole moment
-or has some isotropy it's like if you are making a statement
+or has some anisotropy it's like if you are making a statement
 which cannot be tested at all.
 so at that point, you should rather say,
 what matters is what I can measure in the lab,
@@ -123,7 +123,7 @@ but I know it exists in the body-fixed frame.
 
 If you have nuclei-- if you have a nucleus
 and you have sort of a wave function of the protons
-and neutrons, and it's i equals 0,
+and neutrons, and it's I equals 0,
 you will not find any moment.
 And at least for the ground state of nulcei,
 when you add angular momentum, you really
@@ -131,18 +131,18 @@ change the internal structure.
 You have to promote nucleons to higher orbits.
 So you cannot add angular momentum and still have
 the same object.
-So therefore you have to say the ground state of I
-equals 0 has no deformation because there is not way
+So therefore you have to say the ground state with I
+equals 0 has no deformation because there is no way
 to ever find if there's a deformation,
 so it doesn't exist.
-But there are excited state or nuclei,
+But there are excited state of nuclei,
 which have a deformation.
-And these deformed nuclei can be put onto a multi-plate
+And these deformed nuclei can be put into a multiplet
 of angular momentum states.
 So then you would see I have the same kind of nucleus
 but at different angular momentum states.
 And at higher angular momentum states
-you can, with high accuracy deterrmine quadrupole moments
+you can, with high accuracy determine quadrupole moments
 and things like this.
 And then you may say the same internal state has now
 a non-rotating state, and you would still be tempted--
