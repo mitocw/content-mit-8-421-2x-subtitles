@@ -40,4 +40,4 @@ to be at the center.
 Only S electrons are affected.
 And well what is the effect in terms of energy?
 Well it's clear, the Coulomb potential is weakened.
-Therefore, this effect, the volume effect,
+Therefore, this effect, the volume effect, weakens - decreases the binding energy of the electron.
