@@ -36,7 +36,7 @@ you will never accidentally see rubidium 85 lines.
 And for the mass effect, we said--
 So then they would be comparable.
 The mass effect is easy to estimate
-because the mass convection is one part in a few thousand.
+because the mass correction is one part in a few thousand.
 So that would mean on the order of 10
 to the 10 hertz, 10 gigahertz.
 So the volume effect, it really depends.
@@ -45,7 +45,7 @@ Rubidium is already heavy.
 So right now, I would say they're comparable.
 But since it's of interest, I will give you
 more accurate numbers on Wednesday.
-Any the other questions?
+Any other questions?
 Yes.
 Can you explain the graph on the previous page,
 how the lines are joined up?
@@ -55,11 +55,11 @@ Yeah, so what happens is-- sorry for being cryptic,
 this is the charge distribution.
 And what I'm doing now is I'm solving Laplace equation.
 I'm solving Laplace's equation.
-I'm indicating from r equals infinity.
+I'm integrating from r equals infinity.
 And as long as I'm outside the charge radius,
 I get the 1 over r Coulomb potential.
 But the moment I hit the surface of the nucleus,
-I continue to indicate Laplace's equation.
+I continue to integrate Laplace's equation.
 But what is now inside is a smaller and smaller charge.
 So therefore, I don't-- I can also say I use a form
 of Gauss's law.
@@ -69,7 +69,7 @@ that you have solved, the 1 over r potential
 becomes now a parabola.
 And so what I wanted of indicate here
 is once you hit the surface of the nucleus,
-you're not continuing on the one over r trajectory.
+you're not continuing on the 1 over r trajectory.
 You have in a way which is continuous and has
 a continuous derivative, you have to fit in a parabola.
 And for the heavier nucleus, this
@@ -98,18 +98,18 @@ For the S electron, you can immediately
 factor out the probability for the electron at S equals 0.
 But as we discussed, if you have orbital angular momentun--
 let me just scribble it down here--
-the wave function is proportional to r to the L.
+the wave function is proportional to r to the l.
 The wave function is exactly 0 only at r equals 0.
 And then it slowly grows.
 So therefore, given the finite size or the nucleus,
 you will get a tiny, an absolutely tiny effect
-if you indicate a wave function r
-to the L over your perturbation operator.
+if you integrate a wave function r
+to the  l over your perturbation operator.
 So it's not mathematically 0.
 But for all practical purposes, it vanishes.
 Nancy.
-[Student: For the different Rb isotopes, for example, in the video,
-do mass and volume affecting anything?
+[Student: For the different nuclei, for example, in rubidium,
+is mass and volume effect the only thing?
 Or is the nuclear structure also important in these isotopes?
 Because the nuclear structure would
 be different for both of them if they have
