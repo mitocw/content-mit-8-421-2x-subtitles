@@ -45,9 +45,9 @@ states, and therefore, map out Lamb shift with much,
 much higher precision not limited by the finite lifetime
 of p states.
 Or finally, you would say Lamb shifts are small splittings.
-And for many, many years Lamb shifts
-were very measured by making radio frequency transitions
-between two s and two p states.
+And for many, many years, Lamb shifts
+were measured by making radio frequency transitions
+between 2s and 2p states.
 Well, today, the most accurate measurement of the Lamb shift
 is with an optical transition where
 you need a much, much higher relative precision
@@ -55,13 +55,13 @@ to see the tiny Lamb shift.
 But optical metrology with direct frequency measurements
 and frequency combs has so much improved in precision that
 now, an optical measurement, even if it comes to tiny
-difference is more accurate than a microwave
+difference is more accurate than a direct RF
 measurement.
 So I think that the history of hydrogen
 shows you that technology can completely
-change the paradigm of measurements are made.
-Fundamental limits disappear because in two weeks
-a new insight is available.
+change the paradigm how measurements are made.
+Fundamental limits disappear because new tools
+or new insight is available.
 And also, I find it interesting that discoveries often
 have precursors, and people have a hunch, know about it,
 and then finally it is discovered.
