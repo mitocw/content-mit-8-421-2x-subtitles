@@ -94,7 +94,7 @@ precise optical measurements.
 And I think there was a big gap-- a change in slope here.
 In the old days, you measured the wavelengths of light
 by making a measurement of the wavelengths
-using maybe a garting, or interferometry.
+using maybe a grating, or interferometry.
 But when you now started to measure frequencies directly,
 then there was a change in slope,
 and major improvements in precision.
