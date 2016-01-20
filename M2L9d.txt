@@ -27,12 +27,12 @@ of the Coulomb Law for the Hydrogen Atom."
 People speculated or discussed that the Coulomb Law will not
 be valid at very small distances.
 And this is ultimately what QED, radiative correction, the Lamb
-Shift, vacuum polarization, all of it brings about.
+Shift, vacuum polarization, and all that brings about.
 
 Finally, people had an understanding of the hydrogen
 atom, and they measured-- and I want you to sort of keep
 that in mind-- they did optical--
-they measured the Balmer lines of hydrogen and/or helium.
+they measured the Balmer lines of hydrogen and deuterium.
 
 And then they couldn't fully resolve it
 because of the finite lifetime of the P state.
@@ -56,7 +56,7 @@ We talk about the finite size of the proton in a minute.
 And then of course, 1947, new RF oscillators
 have been developed in the pursuit of radar,
 experimental tools are there now.
-High power IF sources, tunable sources, and such.
+High power RF sources, tunable sources, and such.
 And then Lamb and Retherford in this landmark paper
 look at the fine structure of the hydrogen atom,
 and this is the famous result. They measured transitions
@@ -78,4 +78,4 @@ was similar to what I presented to you
 in class, that the electromagnetic zero point
 energy is shaking the electron and leading to corrections.
 But it's amazing that within weeks, theorists
-figured really out, yes, this is the explanation.
+figured really out, yes, this is the explanation and this is how we have to extend the theory.
