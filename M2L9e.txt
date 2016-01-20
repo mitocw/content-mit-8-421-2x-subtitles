@@ -35,18 +35,17 @@ We'll talk about that later in the course.
 And with these techniques, the accuracy of the Lamb Shift
 is now in the one digit further in the 10 kilohertz regime.
 There is a nice feature that we'll also discuss it later
-that it was possible to obtain linewidths
+that it was possible to obtain a linewidth
 which is sub natural.
 We talk about it that it's possible to do spectroscopy
-on unstable states, which provides linewidths, never
-within the natural linewidths.
+on unstable states, which provides a linewidth narrower
+than the natural linewidths.
 If you want to get one sentence, but as an appetizer,
 you just look at the atoms, which have not
 decayed for a long time.
 And if you play some tricks you can then
-get linewidths, which is several the lifetime, which corresponds
-to several of lifetimes, and not just to the one [INAUDIBLE]
-lifetime.
+get a linewidth, which is several lifetime, which corresponds
+to several lifetimes, and not just to the 1/e lifetime.
 But there are some conditions that have to be met,
 and those authors used it here to advantage
 to narrow the line for the measurement of the Lamb Shift.
@@ -65,5 +64,5 @@ I didn't trace down what they meant in the abstract.
 So these are the same authors, just a few years later.
 The agreement between theory and experiment
 is at the 2 standard deviation.
-So I think this probably disappeared.
+So I think this problem disappeared.
 And I don't know if it was a fault of theory or experiment.
