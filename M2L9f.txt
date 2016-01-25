@@ -9,7 +9,7 @@
 #
 #----------------------------------------
 
-Step forward to the optical spectroscopy.
+Now we go a step forward to the optical spectroscopy.
 You'll remember originally-- and this is why the Lamb Shift
 wasn't jumping into people's eye when they did spectroscopy
 of the Balmer Spectrum of hydrogen--
@@ -19,16 +19,16 @@ of the unresolved lines.
 And now the advent of lasers.
 And people immediately developed saturation spectroscopy.
 That's how most of our laboratories
-stabilized their lasers, using Doppler-free saturation
+stabilize their lasers, using Doppler-free saturation
 spectroscopy.
 And when saturation spectroscopy was
-invented by Hansch and Shawlow, for the first time
+invented by Hänsch and Schawlow, for the first time
 you can break through the Doppler width.
 And now you see the lines resolved.
 And here, I think for the first time,
 you see two peaks separated, and the splitting
 is the Lamb Shift, which until then, was only accessible
-for radio frequency methods.
+through radio frequency methods.
 Of course, these were the first lasers, just pulse lasers.
 And you couldn't even think about precision.
 But then of course, using metrology,
@@ -38,7 +38,7 @@ And these are now papers in the '90s.
 Optical measurement on the Lamb Shift
 in the ground state, not only the excited state.
 Talking about the comparison with experiment and theory.
-So experimental is pushed to higher and higher precision,
+So experimentalists pushed to higher and higher precision,
 and suddenly there was a discrepancy.
 And it was a discrepancy in the 1 S Lamb Shift.
 In the 1 S state, the Lamb Shift is much bigger
@@ -64,10 +64,10 @@ Remember, the Lamb Shift is about 1,000 megacycles,
 And now the precision is in the single kilohertz.
 
 And as I pointed out, precision was
-reached by directing, measuring the frequency of lasers,
+reached by directly measuring the frequency of lasers,
 frequency metrology.
 This was actually-- for historic interest,
-frequency metrology they use peak nodes
+frequency metrology they use beat notes
 between the laser used to measure the hydrogen
 line and some other lasers.
 So this is just a few years before comb generators,
@@ -77,7 +77,7 @@ measurement.
 You can read about it when I paused it.
 It shows you what the error budget
 is in those measurements.
-This is the slide I borrowed from Ted Hansch.
+This is the slide I borrowed from Ted Hänsch.
 Optical Spectroscopy of Hydrogen.
 It just shows the advances in frequency metrology.
 It shows that how caesium clocks and optical spectroscopy-- how
@@ -91,16 +91,16 @@ And I'm sure in your lifetime you will experience
 a redefinition of the second, because the caesium clock is
 no longer accurate enough to compare with the most
 precise optical measurements.
-And I think there was a peak gap-- a change in slope here.
+And I think there was a big gap-- a change in slope here.
 In the old days, you measured the wavelengths of light
 by making a measurement of the wavelengths
-using maybe a grading, or interferometry.
+using maybe a grating, or interferometry.
 But when you now started to measure frequencies directly,
 then there was a change in slope,
 and major improvements in precision.
 And today, of course, the most precise measurements
 of laser frequencies is not through the wavelengths,
-directly count the number of cycles in a peak node,
+directly count the number of cycles in a beat note,
 with an optical comb generator.
 So what can you do with ever-increasing precision?
 If you measure very, very accurately,
@@ -115,16 +115,16 @@ If there were a small change, which there wasn't, you
 could only come to one conclusion,
 and this is fundamental constants in nature,
 change as a function of time.
-So at least precision of the metrology
-is now being used to test with a fundamental constants,
-or nearly constant as a function of time.
+So this precision of the metrology
+is now being used to test whether fundamental constants,
+are really constant as a function of time.
 Precision is even more improving.
 The latest in the development of the spectroscopy of hydrogen
 is what is called the size of the proton puzzle.
 In your homework assignment, you are actually
 calculating what is the correction due to transition
 frequencies in hydrogen?
-Because you don't have a proton field of a point particle,
+Because you don't have a Coulomb field of a point particle,
 the proton has a finite size.
 Or vice versa.
 If you have sufficient prediction,
@@ -153,7 +153,7 @@ going around the proton is much smaller.
 So therefore the-- Lamb Shift also--
 but also the correction due to the finite size of the proton
 is much, much larger, because there
-is much more overlay of the muonic wave
+is much more overlap of the muonic wave
 function with the proton than from electron.
 So there was a huge improvement in the precision
 of the measurement of the proton size.
@@ -172,4 +172,4 @@ Rather to the contrary, it has hardened
 that there is some discrepancy which needs to be resolved.
 So this was just sort of a little short excursion,
 or a little bit of summary of spectroscopy of hydrogen
-over 80 years from precursors to the Lamb Shift,
+over 80 years from precursors to the Lamb Shift, to the proton radius puzzle.
