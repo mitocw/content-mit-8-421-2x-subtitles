@@ -11,7 +11,7 @@
 
 I have discussed for you the two limiting cases.
 The weak field and the strong field case.
-But you can solve it for also immediate fields.
+But you can solve it for also intermediate fields.
 You simply have to do an exact diagonalization
 of the Hamiltonian, which involves
 the hyperfine coupling.
@@ -19,7 +19,7 @@ And the hyperfine coupling, if you want,
 can be diagonalized as eigenfunctions
 where the quantum numbers are J, I,
 couple to F, and the projection of F,
-the magnetic quantum number is F.
+the magnetic quantum number is mF.
 But now we have the Zeeman Hamiltonian where everything
 is projected on the z-axis.
 So we have mJ and mI.
@@ -33,7 +33,7 @@ we use those quantum numbers and calculated this field
 perturbatively.
 But in general, you just have to write down
 the matrix element of this Hamiltonian in whatever basis
-you chose.
+you choose.
 You can use the weak field basis.
 This term is diagonal, this is off diagonal.
 Or you can use the strong field basis,
@@ -44,7 +44,7 @@ And since for cases where S is equals 1/2, it's only a 2
 by 2 matrix, which has to be diagonalized.
 You can do it analytically, and this
 leads to the famous Breit-Rabi formula.
-So the solution is analytic for 3 equals 1/2.
+So the solution is analytic for J equals 1/2.
 And it's a beautiful example which you should solve
 in your homework assignment.
 Let me just sketch the solution.
