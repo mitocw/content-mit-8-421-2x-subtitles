@@ -21,13 +21,13 @@ So now we are in a situation that the Zeeman coupling
 is the big term, and the hyperfine coupling
 is the weaker term.
 So in other words, what comes first now is the Zeeman energy.
-So we are not coupling the electronic angular momentum
+So we are not coupling the electronic angular momentum and
 the nuclear angular momentum to total angular momentum,
 because this coupling is weak.
-We'd rather say that the electronic
-and the nuclear angular momentum aligned
+We rather say that the electronic
+and the nuclear angular momentum align
 with the magnetic field.
-We quantized along the direction of the magnetic field.
+We quantize along the direction of the magnetic field.
 And then later we add the hyperfine coupling
 in a perturbative way.
 So B0 is now quantizes J along the direction
@@ -47,14 +47,14 @@ So that may be smaller than the hyperfine interaction.
 
 So then you would say, naively well, the nuclear angular
 momentum should not couple to the magnetic field.
-It should first be couple through
+It should first be coupled through
 the hyperfine interaction.
 And the hyperfine interaction is I dot J.
 However, J, which coupled strongly to the magnetic field,
 because it couples through the Bohr magneton,
 has already been coupled to the magnetic field.
 So therefore the hyperfine interaction, which is I
-dot J. is now modified, because J couples
+dot J, is now modified, because J couples
 to the magnetic field, which means we have to project it
 onto the magnetic field axis.
 So therefore the nucleus now experiences
@@ -68,7 +68,7 @@ this indirect coupling.
 You couple the electron angular momentum to the z-axis,
 and the electron angular momentum
 couples the nuclear angular momentum to the z-axis.
-So we are now this quantizes the nuclear angular momentum
+So we are now - this quantizes the nuclear angular momentum
 along the z-axis, which means that n sub I
 becomes a good quantum number.
 Anyway, maybe the result is even simpler than the explanation.
@@ -86,7 +86,7 @@ This is destroyed by a strong, magnetic field.
 And the good quantum numbers are J and I, and their projection,
 mJ and mI.
 And then just writing down the expectation value
-of the Hamiltonian in these spaces
+of the Hamiltonian in this basis
 would have immediately given me this result.
-But I wanted to give you sort of the Mormon
-mechanistic explanation what's going
+But I wanted to give you sort of the more
+mechanistic explanation what's going on inside the atom and what leads to this result
