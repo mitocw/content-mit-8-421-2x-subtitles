@@ -14,12 +14,12 @@ So we're adding one more vector to the game.
 So we add angular momentum of the nucleus.
 So now the game we play is not only L and S. We have I and B.
 So it's the game of the four vectors
-and eventually how they process around each other.
+and eventually how they precess around each other.
 And that gives rise to the structure of hyperfine levels
 in the external magnetic field.
 We assume that L and S have coupled to J.
 So we have actually the coupling of J, I,
-but now we have an external quantization [INAUDIBLE]
+but now we have an external quantization axis
 and Zeeman energies due to the external magnetic field.
 And of course, in hyperfine structure, we discussed that.
 I and J-- I and J are no longer conserved angular momenta
@@ -30,7 +30,7 @@ Then we have the hyperfine coupling, which couples I
 and J with the product, I dot J. And then we
 have an external magnetic field, which
 couples to the magnetic moment of the electron.
-And this maybe a small electron but we
+And this maybe a smaller term, but we
 can easily carry it with us.
 There's also a coupling with the magnetic moment of the nucleus.
 
@@ -41,13 +41,13 @@ because magnetic fields of a few hundred gauss
 may actually take you to the high field limit.
 So I want to discuss both the low field and the high field
 limit.
-The low field limit implies there
+The low field limit implies
 that the Zeeman energies are much smaller
 than the hyperfine splittings.
 And the sort of way how we describe the system
 is that J and I couple.
 So J, which is responsible for the magnetic moment,
-processes around F, the total angular momentum.
+precesses around F, the total angular momentum.
 But then the total angular momentum
 processes around the magnetic field.
 So in other words, you assume that the coupling between J
@@ -55,48 +55,47 @@ and I is so strong, if they couple to F,
 the magnetic field is not breaking up
 the coupling between J and I. J and I together form F.
 And this hyperfine state, it's magnetic moment,
-processes around B. So this is sort of the picture
+precesses around B. So this is sort of the picture
 and you have to get used to it.
-J processes around F, and F processes
-around the external magnetic field, Bnod.
+J precesses around F, and F precesses
+around the external magnetic field, B naught.
 But again, if you don't like the precession model,
-just calculate the quantum mechanical energy that
-was diagonalized Hamiltonian.
+just calculate the quantum mechanical energy  levels,
+diagonalize the Hamiltonian.
 The answer is Identical.
-So the same Hamiltonian couples to the magnetic field.
+So the Zeeman Hamiltonian couples to the magnetic field.
 And we have two contributions to the magnetic moment,
 the electron and the nucleus.
 And in the weak field limit we use a treatment
 which is almost completely analogous
 to the treatment we use when we derive the Lande g-factor.
-So in the weak field limit we can treat the same Hamiltonian
+So in the weak field limit we can treat the Zeeman Hamiltonian
 perturbation theory, and it's exactly analogous
-when we edit a weak magnetic field to the fine [INAUDIBLE].
-
+when we added a weak magnetic field to the fine structure.
 So in the vector model, we have the coupling of J and I to F.
 And the relevant term in the Hamiltonian
 is we have the magnetic moment of the electron, which
-is proportionate to J, and it couples to B.
+is proportional to J, and it couples to B.
 So this relevant term-- and this is fully analogous to what
-I did five or 10 minutes ago, has
+I did five or ten minutes ago, has
 to be replaced due to the presence of the nuclear angular
 momentum, we have to project everything
 on the axis of the total angular momentum, F.
 So therefore, the Zeeman Hamiltonian,
 it had the contribution to the magnetic moment
 due to the electron and due to the nucleus.
-This is proportionate to J, but now we
+This is proportional to J, but now we
 have to project it onto F. And similarly, the magnetic moment
-of the nucleus is proportionate to I.
+of the nucleus is proportional to I.
 But what matters is the projection on F.
-And since I've factored out the Bohr magnetron,
+And since I've factored out the Bohr magneton,
 the magnetic moment of the nucleus
-is proportionate to the nuclear magnetron.
+is proportional to the nuclear magneton.
 
 I have to account for the ratio.
-And what matters now is the projection of F and Bnod.
+And what matters now is the projection of F and B naught.
 So therefore, collecting all of the terms,
-we have the Bohr magnetron, which
+we have the Bohr magneton, which
 is setting the scale of the interaction.
 The last term is the magnetic field.
 But the projection of F onto the magnetic field
