@@ -16,11 +16,11 @@ and the proton has a spin up and down, and two by two,
 two times two is four.
 So we're talking about multiplicity of four.
 And I'm asking you
-know about the limits of high and low fields,
+now about the limits of high and low fields,
 first, at high fields and at low fields.
 And the question is, what are the
 magnetic moments of those hyperfine states.
-We neglect the nuclear magnetron
-compared to the Bohr magnetron.
+We neglect the nuclear magneton
+compared to the Bohr magneton.
 So, what are the magnetic moments
-of those hyperfine states in units of the Bohr magnetron.
+of those hyperfine states in units of the Bohr magneton.
