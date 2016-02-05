@@ -20,9 +20,9 @@ and you have to interpolate between one and the other.
 Let's summarize as follows.
 What we have is a Hamiltonian
 and it has one part, 
-the hyperfine direction which depends on I dot J.
+the hyperfine interaction which depends on I dot J.
 And then it has an external magnetic field part.
-And what happens to the magnetic field which we assume,
+And what couples to the magnetic field which we assume,
 is in the J direction-- in the Z direction,
 are the Z components of the magnetic moment.
 And the Z component of the magnetic moment
@@ -53,7 +53,7 @@ And since the magnetic field Hamiltonian
 is diagonalized when we have eigenfunctions where MJ and MI
 are good quantum numbers.
 This is sort of-- if you ignore the hyperfine coupling,
-this is the exact [INAUDIBLE] of the Zeeman term.
+this is the exact diagonalization of the Zeeman term.
 And then in perturbation theory we
 look for the hyperfine coupling.
 And well we do perturbation theory
@@ -65,9 +65,9 @@ Now what you should also learn here in this example
 is the language which we use.
 And sometimes I would say the language can be more
 confusing than the equations.
-What we see here is we see that the angular
-momentum of the electron and of the nucleus
-are coupled to the magnetic field access.
+What we say here is we say that the angular
+momenta of the electron and of the nucleus
+are coupled to the magnetic field axis.
 They are quantized.
 The approximate eigenstates are those
 which have a specific quantum number in the Z direction
@@ -92,8 +92,8 @@ for the second term.
 Of course in the age of computers
 I could have simply written down for you an Hamiltonian
 and say, well, it has to be-- it has
-to be numerically diagonalized, but I discussed instead
-what are two limiting cases.
+to be numerically diagonalized, what I discussed instead
+were the two limiting cases.
 This discussion now allows me to discuss
 what happens when we go to even stronger fields.
 Well when we go to even stronger fields then
@@ -101,7 +101,7 @@ we may have fields which are even
 stronger than the fine structure coupling.
 The coupling of the orbital angular
 momentum of the electron, and the spin angular momentum to J.
-And well without even any deviation, which is obvious,
+And well without even any derivation, which is obvious,
 you know what happens now is that each component which
 provides magnetic moment.
 The spin, the orbital angular momentum, and the nucleus.
@@ -109,7 +109,7 @@ The dominant term for each of them
 is the coupling to the magnetic field.
 So in strong magnetic fields these are the eigenstates.
 The eigenstates are labeled by MI, ML, MS.
-So we've taken care of the strong copying term.
+So we've taken care of the strong coupling term.
 And now, in addition, we are now treating
 in perturbation theory.
 Some fine structure coupling, but the quantum numbers
@@ -117,27 +117,27 @@ are already distributed, ML MS. There
 is a coupling between MI MS and a coupling between MI and ML.
 
 So this is sort of the limiting cases.
-But as a generalization of quantum mechanics,
+But as a general illustration of quantum mechanics,
 I thought that this was a nice example for an Hamiltonian,
 where we have different scalar products like B times S, B dot
 L, S dot L, I dot J. The question is, how do we
 take care of those different parts
 because they do not commute.
-Of course feel this would you say I simply diagonalize it
-and that's it?
+Of course a theorist would just say I simply diagonalize it
+and that's it.
 But if you want to develop intuition,
 then you have to discuss the limiting cases.
 And in particular the approach which
 allows an intuitive understanding
 is first things first.
-And between we first treat the stronger terms and then
+And we treat -- we first treat the stronger terms and then
 the weaker terms.
 And we can do-- we can quantitatively
-derive and [INAUDIBLE] derive expressions, for instance,
+derive -- analytically derive expressions, for instance,
 for the Lande g -factor in this vector model.
 This vector model says that-- assumes, so to speak,
 that a state which has an eigenfunction of MJ
-rapidly precesses around this axis.
+rapidly precesses around the Z axis.
 And this vector model actually allows
 you to do easy calculations without
 Clebsch-Gordan coefficient.
@@ -146,7 +146,7 @@ is rapid precession for transverse components
 and projecting of vectors onto the axis around which we
 have rapid precession.
 But this is simply a tool to do calculations
-without the explicit use of Clapeyron coefficients.
+without the explicit use of Clebsch-Gordan coefficients.
 
 OK so this is what I wanted to tell you
 about atoms in magnetic field.
