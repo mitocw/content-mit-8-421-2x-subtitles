@@ -11,6 +11,6 @@
 Yeah.
 Next question, how does psi 0 of 0
 square, how does the density of the electron at the origin
-scale with [INAUDIBLE] quantum number?
+scale with principle quantum number?
 1 over n, 1 over n square, 1 over n cubed, or 1
 over n to the 6th.
