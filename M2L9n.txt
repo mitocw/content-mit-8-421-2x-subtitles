@@ -12,7 +12,7 @@
 So let me show you the weak field, the strong field limit,
 and do a graphic interpolation.
 What I've chosen as an example is the case
-of a dublet S 1/2 ground state and a nuclear angular
+of a doublet S_1/2 ground state and a nuclear angular
 momentum of 3/2.
 And examples for that is sodium and rubidium 87.
 So it's moved up by 3/4, the other state
@@ -27,9 +27,9 @@ At high magnetic field-- well you
 know what you have at high magnetic field.
 You have a single electron, which
 can be spin up and spin down.
-So if you have an electron which will spin up and spin down,
-it pretty much is linear Zeeman shift force spin down
-and linear Zeeman shift force spin up.
+So if you have an electron which has spin up and spin down,
+it pretty much is linear Zeeman shift for spin down
+and linear Zeeman shift for spin up.
 So therefore, the energy levels will evolve like this.
 
 So another words, we have 8 levels.
@@ -37,14 +37,14 @@ We have the structure at weak magnetic fields.
 At high magnetic fields of course, we also have 8 levels,
 but they pretty much group into spin up of the electrons,
 spin down of the electrons.
-And then for this, a small hyperfine structure
+And then for this, a smaller hyperfine structure
 on top of it, because now the nuclear spin
 can have various orientations.
 And I equals 3/2 state has four orientations, so
-therefore electrons spin up, and electrons spin down.
+therefore electron spin up, and electron spin down.
 We obtain 4 sub levels.
 And if you ask how did I connect it?
-What I've connected, the quantum number
+What I've connected, the quantum numbers
 are such that what is here, the states are labeled
 by mI and mS. And here they're labeled by mF,
 but mF equals mI plus mS. So this
@@ -65,7 +65,7 @@ solve the Hamiltonian, that this structure can
 be explained the following way.
 You will always find you have states which are stretched,
 where there is only one state which has the maximum angular
-momentum inside all the stretched states.
+momentum, these are called the stretched states.
 And then the other states you always
 will find two states which have the same total mF.
 And those two states avoid each other.
