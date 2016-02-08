@@ -16,7 +16,7 @@ and its magnitude is epsilon, and we
 want to ask, what is the electrostatic energy
 in this electric field?
 And we're using the fact that electrostatic energy
-can be expended in a multipole expansion.
+can be expanded in a multipole expansion.
 We have a monopole term, we have a dipole term,
 and we have a quadratic term.
 So the charge, of course, is the atom
@@ -43,8 +43,8 @@ the dipole operator and its projection on the z-axis.
 So the dipole operator is the charge
 of the electron times the position,
 and as long as the polarizability
-in this situation is isotropic-- the [INAUDIBLE] is a minus
-sign, minus e is a charge.
+in this situation is isotropic-- did I forget -- yes, a minus
+sign, minus e is the charge.
 If you apply an electric field in the Z direction,
 all the relevant dipole moments are in the Z direction.
 For anisotropic materials, you could
