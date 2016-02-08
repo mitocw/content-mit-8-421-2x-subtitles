@@ -23,15 +23,15 @@ of the dipole operator times the electric field over 2?
 And the next question would be the same,
 but what do we get for the total Hamiltonian?
 So these are the questions.
-I want to discuss with you in the next 10 minute simply using
-perturbation theory for expectation values, 
+I want to discuss with you in the next 10 minute, simply using
+perturbation theory, expectation values, 
 expectation values of the total energy H naught plus H prime.
 But also expectation values of the electrostatic energy
 which is H prime.
-The question cannot be addressed by
-dimensional analysis:  what
+The question is, you can say for
+dimensionless units:  what
 we get is a dipole moment times an electric field.
-But this is one of the situation where factors of 1/2
+And this is one of the situation where factors of 1/2
 are not just bookkeeping.
 Factors of 1/2 really reflect interesting physics.
 And I want to sort of highlight it by asking you 
